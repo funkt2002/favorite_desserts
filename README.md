@@ -1,2 +1,3 @@
 # favorite_desserts
-my favorite desserts, i guess. 
+
+My favorite dessert is an oatmeal chocolate cookie. Probably with vanilla icecream. 
